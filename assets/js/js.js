@@ -167,7 +167,7 @@ function emptyCar(){
     carProducts = [];
 }
 
-// //* Local Storage
+// //* Local Storage (para guardar las informacion)
 
 // //* Guardar un valor en el Local Storage
 // localStorage.setItem('name', 'Alejandro')
